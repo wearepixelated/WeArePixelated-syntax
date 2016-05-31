@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/we-are-pixelated-ui-syntax",
+  "repository": "https://github.com/wearepixelated/WeArePixelated-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
