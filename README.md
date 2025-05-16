@@ -1,4 +1,4 @@
-# we-are-pixelated-syntax theme
+# we-are-pixelated-syntax theme ( defunct )
 
 We Are Pixelated's syntax theme.
 
